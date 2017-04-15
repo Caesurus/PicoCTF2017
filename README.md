@@ -9,6 +9,11 @@ Writeups for PicoCTF2017 Challenges
  
 ---
 
+[Level 3 - Enter The Matrix](L3_EnterTheMatrix)
+ - Arbitrary read/write primitive
+ 
+---
+
 [Level 3 - consoleConfig](L3_ConfigConsole)
  - Simple FSB problem
  
