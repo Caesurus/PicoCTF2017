@@ -1,0 +1,3 @@
+Unhappy that you can't choose which enemies to fight? Choose your own adventure! Source. Connect on shell2017.picoctf.com:43651. ASLR is not enabled.
+
+shell2017.picoctf.com:43651

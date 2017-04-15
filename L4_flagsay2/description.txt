@@ -1,0 +1,6 @@
+Flagsay 2
+Apparently I messed up using system(). I'm pretty sure this one is secure though! I hope flagsay-2 is just as exhilarating as the the first one! Source. Connect on shell2017.picoctf.com:18115.
+
+ HINTS
+The buffer isn't on the stack, so you can't use your own pointers. Is there another way to get a pointer?
+Make sure you know about using hn and $ in format strings
