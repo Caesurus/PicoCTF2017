@@ -54,6 +54,9 @@ So now we have two things:
 * Libc leaked address
 * Ability to do more calls to the vulnerable printf
 
+The hint says that there is a place in libc that we can jump to that will give you a shell. 
+That's nice and all, but is very libc binary specific. Let's do it in a more robust way.
+
 Next, we want to find a function that will take a pointer, preferably to a string we control.
 ```C
 void set_prompt(char *prompt) {
