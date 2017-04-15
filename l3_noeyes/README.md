@@ -1,0 +1,10 @@
+# Level 3 - no eyes
+```
+No Eyes
+The website isn't really me much, but you can still get the admin password, right?
+http://shell2017.picoctf.com:16012/
+
+HINTS
+ Sometimes an error message can be just as useful.
+```
+
