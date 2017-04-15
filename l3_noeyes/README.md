@@ -65,4 +65,4 @@ I tried to make it very 'movie' like, where you see the character it's trying an
 Enjoy.
 If you're wondering why I placed most of the flag already in the script. This is because that part shouldn't change between users. And I want to be as gentle as possible on the servers, lets all play nice right?
 
-You may have to update the URL with the port that was given to you. That port is mine and the flag won't necessarily work for others.
+You may have to update the URL with the port that was given to you. That FLAG is mine go get your own :P
