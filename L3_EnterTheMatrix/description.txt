@@ -1,0 +1,6 @@
+Enter The Matrix
+The Matrix awaits you,. Take the red pill and begin your journey. Source. Jack in at shell2017.picoctf.com:57222.
+
+ HINTS
+Look carefully at how the matrix is indexed.
+Study the heap memory layout to see what you can overwrite.
