@@ -1,0 +1,10 @@
+shell2017.picoctf.com 9611
+
+
+
+Aggregator
+I wrote a program to help me synthesize my log files. You can edit the log files to add annotations that will print out aggregated information. Because the original program that outputs the logs was a bit faulty, I also included the ability to clear a single day of logs. 
+Find my aggregator running on shell2017.picoctf.com:9611. aggregator.c aggregator
+
+ HINTS
+Does it look like there is a stack vulnerability?
