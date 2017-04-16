@@ -26,9 +26,14 @@ Writeups for PicoCTF2017 Challenges
  
 [Level 4 - flagsay2](L4_flagsay2)
  - Slightly harder FSB problem
- 
+
 --- 
  
+[Level 4 - Aggregator](L4_aggregator)
+ - Heap UAF vulnerability
+
+--- 
+
 [Final - choose](Final_choose)
  - BufferOverFlow 
  
